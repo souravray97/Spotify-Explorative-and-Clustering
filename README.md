@@ -1,2 +1,2 @@
 # Spotify Explorative and Clustering
- Better songs at parties
+Clustering and recommending a playlist.
